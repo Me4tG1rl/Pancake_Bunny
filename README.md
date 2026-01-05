@@ -1,4 +1,4 @@
-<img width="1700" height="170" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/ed269774-6d07-47c1-b2f5-92af411d5880" />
+<img width="1700" height="170" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/1cdbdfe8-faed-40d2-9396-1c380de0856f" />
 
 
 # 🎀 About Me:
@@ -18,4 +18,4 @@ HAIII !! I AM PANCAKE !!1<br>I LOVE ANIMALS ESPECIALLY BUNNIES AND BATS <br>IM A
 ---
 [![](https://visitcount.itsvg.in/api?id=Me4tG1rl&icon=8&color=10)](https://visitcount.itsvg.in)
 
-<img width="1700" height="170" alt="github-header-banner (2)" src="https://github.com/user-attachments/assets/9e7c3c3c-3132-40e7-80b1-9d60ce385215" />
+<img width="1700" height="170" alt="github-header-banner (2)" src="https://github.com/user-attachments/assets/9481e2f6-47b8-4f4f-ab78-bee5ed26e022" />
